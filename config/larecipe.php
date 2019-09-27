@@ -69,7 +69,7 @@ return [
     */
 
     'cache'       => [
-        'enabled' => env('APP_ENV') == 'staging' ? true : false,
+        'enabled' => env('APP_ENV') == 'staging' && env('APP_DEBUG') == true ? true : false,
         'period'  => 25200 // 7 days -- value in minutes
     ],
 
@@ -140,8 +140,8 @@ return [
         'og'              => [
             'title'       => 'Anofie Lite - Docs',
             'type'        => 'article',
-            'url'         => 'https://docs.anofie.classiebit.com',
-            'image'       => 'https://docs.anofie.classiebit.com/logo.png',
+            'url'         => 'https://anofie-docs.classiebit.com',
+            'image'       => 'https://anofie-docs.classiebit.com/logo.png',
             'description' => 'Collect honest suggestions and feedbacks from your friends, employees, or customers in a creative and professional manner.',
         ]
     ],
