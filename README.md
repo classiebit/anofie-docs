@@ -4,7 +4,7 @@ Welcome to Anofie Lite documentation for initial stable version 1.0
 
 ---
 
-![Anofie - Anonymous feedback script remastered](http://anofie-docs.classiebit.com/images/anofie-docs-banner-1.jpg "Anofie - Anonymous feedback script remastered")
+![Anofie - Anonymous feedback script remastered](http://docs.anofie.classiebit.com/images/anofie-docs-banner-1.jpg "Anofie - Anonymous feedback script remastered")
 
 
 > {info.fa-youtube} Here's a complete video tutorial guide for getting started quickly ✌️
