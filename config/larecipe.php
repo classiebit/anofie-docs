@@ -69,8 +69,8 @@ return [
     */
 
     'cache'       => [
-        'enabled' => env('APP_ENV') == 'staging' && env('APP_DEBUG') == false ? true : false,
-        'period'  => 25200 // 7 days -- value in minutes
+        'enabled' => (env('APP_ENV') == 'staging' && env('APP_DEBUG') == false) ? true : false,
+        'period'  => (env('APP_ENV') == 'staging' && env('APP_DEBUG') == false) ? 25200 : 0 // 7 days -- value in minutes
     ],
 
     /*
