@@ -140,8 +140,8 @@ return [
         'og'              => [
             'title'       => 'Anofie Lite - Docs',
             'type'        => 'article',
-            'url'         => url()->current(),
-            'image'       => 'http://docs.anofie.classiebit.com/logo.png',
+            'url'         => 'https://docs.anofie.classiebit.com',
+            'image'       => 'https://docs.anofie.classiebit.com/logo.png',
             'description' => 'Collect honest suggestions and feedbacks from your friends, employees, or customers in a creative and professional manner.',
         ]
     ],
