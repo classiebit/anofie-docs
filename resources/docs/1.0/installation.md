@@ -2,6 +2,11 @@
 
 Anofie comes with a installer that makes the installation process fully automated and smooth as 🍻
 
+---
+
+![Anofie Installer](https://anofie-docs.classiebit.com/images/anofie-free-installer-1.png "Anofie Installer Screenshot")
+
+
 > {primary.fa-youtube} We've made a video for you to get started quickly. Have a look 💪
 
 ---
@@ -13,7 +18,8 @@ Anofie comes with a installer that makes the installation process fully automate
 <a name="Server-Requirements"></a>
 ## Server Requirements
 
-* PHP version 5.6 or newer is recommended.
+* PHP version **5.6** or newer is recommended.
+* Make sure **.htaccess** is enabled.
 
 
 <a name="Install"></a>
@@ -44,6 +50,8 @@ Anofie comes with a installer that makes the installation process fully automate
 6. Choose if you wish to install **with** or **without** dummy data.
 7. Click Install to start the installation process.
 
+
+>{warning} Make sure **.htaccess** files exist and not hidden.
 
 ---
 
