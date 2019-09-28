@@ -1,6 +1,6 @@
 # Messages
 
-![Anofie Profile Page](https://anofie-docs.classiebit.com/images/framed-message-1.jpg "Anofie Profile Page")
+![Anofie Profile Page](https://anofie-docs.classiebit.com/images/framed-message.jpg "Anofie Profile Page")
 
 Send message anonymously from the user's profile `example.com/johndoe`. Anofie is an anonymous messaging system, your identity won't be exposed.
 

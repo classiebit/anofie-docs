@@ -19,11 +19,11 @@ Welcome to Anofie Lite documentation for initial stable version 1.0
 <a name="What-is-Anofie"></a>
 ## What is Anofie
 
-Anofie is an anonymous feedback system. Using Anofie, you can launch your own dedicated platform for Anonymous Feedback on your domain. Anofie is better than the popular anonymous feedback website. It is more secure, scalable & ready to use in production. 
+Anofie is an anonymous feedback system. Using Anofie, you can launch your dedicated platform for Anonymous Feedback on your domain. Anofie is better than the popular anonymous feedback website. It is more secure, scalable & ready to use in production. 
 
 <br>
 
-Just **download** it, **install** directly on **your server** and start collecting **honest** suggestions and feedbacks from your friends, employees, or customers in a creative and professional manner.
+Just **download** it, **install** directly on **your server** and start collecting **honest** suggestions and feedbacks from your friends, employees, or customers creatively and professionally.
 
 ---
 
@@ -42,7 +42,7 @@ Just **download** it, **install** directly on **your server** and start collecti
 <a name="Pro-version"></a>
 ## Pro Version
 
-**Anofie Pro Version** comes with **Commercial** license. Pro version is fully loaded with a lot of usefull and exciting features.
+**Anofie Pro Version** comes with **Commercial** license. Pro version is fully loaded with a lot of useful and exciting features.
 
 + [Live](https://anofie.com) - Coming soon.
 + [Purchase](https://classiebit.com/anofie-pro) - Subscribe now for notifications, will be soon available for Purchase here
@@ -50,20 +50,35 @@ Just **download** it, **install** directly on **your server** and start collecti
 
 # Installation
 
-Anofie comes with a installer that makes the installation process fully automated and smooth as 🍻
+Anofie comes with an installer that makes the installation process fully automated and smooth as 🍻
+
+---
+
+![Anofie Installer](https://anofie-docs.classiebit.com/images/anofie-free-installer-1.png "Anofie Installer Screenshot")
+
 
 > {primary.fa-youtube} We've made a video for you to get started quickly. Have a look 💪
 
 ---
 
 - [Server Requirements](#Server-Requirements)
+- [Remember](#Remember)
 - [Install](#Install)
 
 
 <a name="Server-Requirements"></a>
 ## Server Requirements
 
-* PHP version 5.6 or newer is recommended.
+* PHP version **5.6** or newer is recommended.
+* Make sure **.htaccess** is enabled.
+
+
+<a name="Remember"></a>
+## Remember
+
+* If installing on the local system, please do not create a database, just enter localhost database credentials & installer will auto-create the new database.
+* Anofie can also be installed on `subdomain.example.com` or `example.com/subfolder/`
+* After installation if you see something like `Error number: 1146 Table settings don't exist` or a `blank page`, **just hit refresh**.
 
 
 <a name="Install"></a>
@@ -93,28 +108,22 @@ Anofie comes with a installer that makes the installation process fully automate
 5. Enter database credentials.
 6. Choose if you wish to install **with** or **without** dummy data.
 7. Click Install to start the installation process.
+8. After the installation sucessful, **PLEASE DELETE THE INSTALL FOLDER**
 
 
----
-
-> {info} If installing on local system, please do not create database, just enter localhost database credentials & installer will auto create the new database.
-
----
-
-> {info} Anofie can also be installed on `subdomain.example.com` or `example.com/subfolder/`
+>{warning} Make sure **.htaccess** files exist and not hidden.
 
 ---
 
-> {primary} After installation if you see something like `Error number: 1146 Table settings doesn't exists` or a `blank page`, just hit refresh.
+> {danger} DO NOT FORGET TO DELETE THE **INSTALL** FOLDER
 
----
 
 # Demo Accounts
 
 Demo accounts have got `demo data` to easily showcase all the features of Anofie.
 
 <br>
-1. We refresh the database everyday.
+1. We refresh the database every day.
 2. While in demo mode, there are no restrictions except -
 
     - Deleting or Disabling user account.
@@ -123,12 +132,12 @@ Demo accounts have got `demo data` to easily showcase all the features of Anofie
 
 ---
 
-To test in specific language, we've mentioned language preference after each demo account- 
-`e.g Roman Pane (Russian)`, so when you login via `romanpane@mail.com` please change the language (see in the footer) to `Russian` to see everything in `Russian`
+To test in a specific language, we've mentioned language preference after each demo account- 
+`e.g Roman Pane (Russian)`, so when you log in via `romanpane@mail.com` please change the language (see in the footer) to `Russian` to see everything in `Russian`
 
-> {primary} Password is same for all - `password`
+> {info} Password is same for all - `password`
 
-1. David lane (English)         - `davidlane@mail.com`
+1. David Lane (English)         - `davidlane@mail.com`
 2. Cora Woods (English)         - `corawoods@mail.com`
 
 3. Roman Pane (Russian)         - `romanpane@mail.com`
@@ -152,4 +161,4 @@ To test in specific language, we've mentioned language preference after each dem
 
 ---
 
->{primary} To visit `Admin Panel` hover over profile icon in the header.
+>{primary} To visit `Admin Panel` hover over profile icon in the header and click <larecipe-badge type="warning" circle icon="fa fa-dashboard"></larecipe-badge>

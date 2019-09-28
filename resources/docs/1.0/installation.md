@@ -12,6 +12,7 @@ Anofie comes with an installer that makes the installation process fully automat
 ---
 
 - [Server Requirements](#Server-Requirements)
+- [Remember](#Remember)
 - [Install](#Install)
 
 
@@ -20,6 +21,14 @@ Anofie comes with an installer that makes the installation process fully automat
 
 * PHP version **5.6** or newer is recommended.
 * Make sure **.htaccess** is enabled.
+
+
+<a name="Remember"></a>
+## Remember
+
+* If installing on the local system, please do not create a database, just enter localhost database credentials & installer will auto-create the new database.
+* Anofie can also be installed on `subdomain.example.com` or `example.com/subfolder/`
+* After installation if you see something like `Error number: 1146 Table settings don't exist` or a `blank page`, **just hit refresh**.
 
 
 <a name="Install"></a>
@@ -49,20 +58,11 @@ Anofie comes with an installer that makes the installation process fully automat
 5. Enter database credentials.
 6. Choose if you wish to install **with** or **without** dummy data.
 7. Click Install to start the installation process.
+8. After the installation sucessful, **PLEASE DELETE THE INSTALL FOLDER**
 
 
 >{warning} Make sure **.htaccess** files exist and not hidden.
 
 ---
 
-> {info} If installing on the local system, please do not create a database, just enter localhost database credentials & installer will auto-create the new database.
-
----
-
-> {info} Anofie can also be installed on `subdomain.example.com` or `example.com/subfolder/`
-
----
-
-> {primary} After installation if you see something like `Error number: 1146 Table settings don't exist` or a `blank page`, just hit refresh.
-
----
+> {danger} DO NOT FORGET TO DELETE THE **INSTALL** FOLDER
