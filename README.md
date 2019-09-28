@@ -7,7 +7,7 @@ Welcome to Anofie Lite documentation for initial stable version 1.0
 ![Anofie - Anonymous feedback script remastered](https://anofie-docs.classiebit.com/images/anofie-docs-banner-1.jpg "Anofie - Anonymous feedback script remastered")
 
 
-> {info.fa-youtube} Here's a complete video tutorial guide for getting started quickly ✌️
+> **Here's a complete video tutorial guide for getting started quickly ✌️**
 
 ---
 
@@ -30,7 +30,7 @@ Just **download** it, **install** directly on **your server** and start collecti
 <a name="Lite-version"></a>
 ## Lite Version
 
->{primary} This is Anofie Lite version documentation
+> **This is Anofie Lite version documentation**
 
 **Anofie Lite Version** is open-source, free to use. Lite version has got limited features & functionality.
 
@@ -57,7 +57,7 @@ Anofie comes with an installer that makes the installation process fully automat
 ![Anofie Installer](https://anofie-docs.classiebit.com/images/anofie-free-installer-1.png "Anofie Installer Screenshot")
 
 
-> {primary.fa-youtube} We've made a video for you to get started quickly. Have a look 💪
+> **We've made a video for you to get started quickly. Have a look 💪**
 
 ---
 
@@ -111,11 +111,11 @@ Anofie comes with an installer that makes the installation process fully automat
 8. After the installation sucessful, **PLEASE DELETE THE INSTALL FOLDER**
 
 
->{warning} Make sure **.htaccess** files exist and not hidden.
+> **Make sure `.htaccess` files exist and not hidden.**
 
 ---
 
-> {danger} DO NOT FORGET TO DELETE THE **INSTALL** FOLDER
+> **DO NOT FORGET TO DELETE THE `INSTALL` FOLDER**
 
 
 # Demo Accounts
@@ -135,7 +135,7 @@ Demo accounts have got `demo data` to easily showcase all the features of Anofie
 To test in a specific language, we've mentioned language preference after each demo account- 
 `e.g Roman Pane (Russian)`, so when you log in via `romanpane@mail.com` please change the language (see in the footer) to `Russian` to see everything in `Russian`
 
-> {info} Password is same for all - `password`
+> **Password is same for all - `password`**
 
 1. David Lane (English)         - `davidlane@mail.com`
 2. Cora Woods (English)         - `corawoods@mail.com`
@@ -161,4 +161,4 @@ To test in a specific language, we've mentioned language preference after each d
 
 ---
 
->{primary} To visit `Admin Panel` hover over profile icon in the header and click <larecipe-badge type="warning" circle icon="fa fa-dashboard"></larecipe-badge>
+> To visit `Admin Panel` hover over profile icon in the header and click `Admin`
