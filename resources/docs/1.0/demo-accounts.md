@@ -3,7 +3,7 @@
 Demo accounts have got `demo data` to easily showcase all the features of Anofie.
 
 <br>
-1. We refresh the database everyday.
+1. We refresh the database every day.
 2. While in demo mode, there are no restrictions except -
 
     - Deleting or Disabling user account.
@@ -12,12 +12,12 @@ Demo accounts have got `demo data` to easily showcase all the features of Anofie
 
 ---
 
-To test in specific language, we've mentioned language preference after each demo account- 
-`e.g Roman Pane (Russian)`, so when you login via `romanpane@mail.com` please change the language (see in the footer) to `Russian` to see everything in `Russian`
+To test in a specific language, we've mentioned language preference after each demo account- 
+`e.g Roman Pane (Russian)`, so when you log in via `romanpane@mail.com` please change the language (see in the footer) to `Russian` to see everything in `Russian`
 
-> {primary} Password is same for all - `password`
+> {info} Password is same for all - `password`
 
-1. David lane (English)         - `davidlane@mail.com`
+1. David Lane (English)         - `davidlane@mail.com`
 2. Cora Woods (English)         - `corawoods@mail.com`
 
 3. Roman Pane (Russian)         - `romanpane@mail.com`
@@ -41,4 +41,4 @@ To test in specific language, we've mentioned language preference after each dem
 
 ---
 
->{primary} To visit `Admin Panel` hover over to profile icon in the header.
+>{primary} To visit `Admin Panel` hover over profile icon in the header and click <larecipe-badge type="warning" circle icon="fa fa-dashboard"></larecipe-badge>

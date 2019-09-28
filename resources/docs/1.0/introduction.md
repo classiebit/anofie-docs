@@ -19,11 +19,11 @@ Welcome to Anofie Lite documentation for initial stable version 1.0
 <a name="What-is-Anofie"></a>
 ## What is Anofie
 
-Anofie is an anonymous feedback system. Using Anofie, you can launch your own dedicated platform for Anonymous Feedback on your domain. Anofie is better than the popular anonymous feedback website. It is more secure, scalable & ready to use in production. 
+Anofie is an anonymous feedback system. Using Anofie, you can launch your dedicated platform for Anonymous Feedback on your domain. Anofie is better than the popular anonymous feedback website. It is more secure, scalable & ready to use in production. 
 
 <br>
 
-Just **download** it, **install** directly on **your server** and start collecting **honest** suggestions and feedbacks from your friends, employees, or customers in a creative and professional manner.
+Just **download** it, **install** directly on **your server** and start collecting **honest** suggestions and feedbacks from your friends, employees, or customers creatively and professionally.
 
 ---
 
@@ -42,7 +42,7 @@ Just **download** it, **install** directly on **your server** and start collecti
 <a name="Pro-version"></a>
 ## Pro Version
 
-**Anofie Pro Version** comes with **Commercial** license. Pro version is fully loaded with a lot of usefull and exciting features.
+**Anofie Pro Version** comes with **Commercial** license. Pro version is fully loaded with a lot of useful and exciting features.
 
 + [Live](https://anofie.com) - Coming soon.
 + [Purchase](https://classiebit.com/anofie-pro) - Subscribe now for notifications, will be soon available for Purchase here

@@ -1,6 +1,6 @@
 # Notifications
 
-Users get notifications about every new message.
+Users get notifications about every new message. Notifications are shown on the &nbsp;<larecipe-button type="primary" rounded>Messages</larecipe-button>&nbsp; page.
 
 >{success} Notifications are sent via email as well.
 

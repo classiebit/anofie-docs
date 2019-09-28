@@ -1,6 +1,6 @@
 # Installation
 
-Anofie comes with a installer that makes the installation process fully automated and smooth as 🍻
+Anofie comes with an installer that makes the installation process fully automated and smooth as 🍻
 
 ---
 
@@ -55,7 +55,7 @@ Anofie comes with a installer that makes the installation process fully automate
 
 ---
 
-> {info} If installing on local system, please do not create database, just enter localhost database credentials & installer will auto create the new database.
+> {info} If installing on the local system, please do not create a database, just enter localhost database credentials & installer will auto-create the new database.
 
 ---
 
@@ -63,6 +63,6 @@ Anofie comes with a installer that makes the installation process fully automate
 
 ---
 
-> {primary} After installation if you see something like `Error number: 1146 Table settings doesn't exists` or a `blank page`, just hit refresh.
+> {primary} After installation if you see something like `Error number: 1146 Table settings don't exist` or a `blank page`, just hit refresh.
 
 ---

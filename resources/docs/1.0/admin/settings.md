@@ -54,7 +54,7 @@ Set Google Analytics to track your website traffic.
 <a name="Regional"></a>
 ## Regional
 
-Anofie is multi-lingual and multi-timezone. No matter where you're from, you can set your native Timezone and Language which will applied as default.
+Anofie is multi-lingual and multi-time zone. No matter where you're from, you can set your native Timezone and Language which will be applied as default.
 
 
-> {warning} Please read the guidelines provided below each setting, and follow exactly mentioned, or else it may break down the your site.
+> {warning} Please read the guidelines provided below each setting, and follow exactly mentioned, or else it may break down your site.

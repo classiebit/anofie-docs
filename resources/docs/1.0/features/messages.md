@@ -1,9 +1,11 @@
 # Messages
 
+![Anofie Profile Page](https://anofie-docs.classiebit.com/images/framed-message-1.jpg "Anofie Profile Page")
+
 Send message anonymously from the user's profile `example.com/johndoe`. Anofie is an anonymous messaging system, your identity won't be exposed.
 
 <br>
-In same way, when you receive a message, you can't see Sender's identity. That's how Anofie works. Anofie is about sending & receiving messages without exposing identities even if you're a registered user.
+In the same way, when you receive a message, you can't see the Sender's identity. That's how Anofie works. Anofie is about sending & receiving messages without exposing identities even if you're a registered user.
 
 
 >{info} Received | Sent | Favorite messages can be seen from the &nbsp;<larecipe-button type="primary" rounded>Messages</larecipe-button>&nbsp; page
@@ -30,4 +32,4 @@ Messages can be marked as **Favorite** by clicking <larecipe-badge type="danger"
 <a name="Delete"></a>
 ## Delete
 
-When a message is deleted from either `Received` or `Sent` items, it get removed only from single account and not from the opponent account.
+When a message is deleted from either `Received` or `Sent` items, it gets removed only from a single account and not from the opponent account.

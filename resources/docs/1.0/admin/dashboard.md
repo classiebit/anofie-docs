@@ -1,6 +1,6 @@
 # Admin Dashboard
 
-Admin Dashboard gives a quick overview about what's happening on the website.
+Admin Dashboard gives a quick overview of what's happening on the website.
 
 ---
 
@@ -16,15 +16,15 @@ Admin Dashboard gives a quick overview about what's happening on the website.
 
 - Users
 
-    Shows total number of registered users along with recently joined users notification.
+    Shows the total number of registered users along with recently joined users notification.
 
 
 - Messages
 
-    Shows total number of messages along with recent messages notification.
+    Shows the total number of messages along with recent messages notification.
     
 
-> {primary.fa-bell} Notification bell will notify you about all new things happening in the website.
+> {primary.fa-bell} Notification bell will notify you about all new things happening on the website.
 
 
 <a name="Top-Receivers"></a>
@@ -41,7 +41,7 @@ Top receivers chart shows the trending users, receiving the highest numbers of m
 <a name="Reports"></a>
 ## Reports
 
-Reports page shows all the reported messages. And some actions can be taken against the user e.g Disabling or Deleting the Sender account.
+Reports page shows all the reported messages. And actions can be taken against the user e.g Disabling or Deleting the Sender account.
 
 
 
@@ -58,4 +58,4 @@ All the users sent and received messages except Reported, can be seen on the Mes
 
 The users who send a query from `Contact Us` page can be seen on the Contacts page. 
 
->{success} Both the Admin and the User receives a confirmation email.
+>{success} Both the Admin and the User receives a acknowledgement email.

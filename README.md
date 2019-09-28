@@ -152,4 +152,4 @@ To test in specific language, we've mentioned language preference after each dem
 
 ---
 
->{primary} To visit `Admin Panel` hover over to profile icon in the header.
+>{primary} To visit `Admin Panel` hover over profile icon in the header.

@@ -12,12 +12,12 @@ Site users can be managed from the Users page. Admin can temporarily disable the
 <a name="User-Groups"></a>
 ## User Groups
 
-This is about making multiple user groups and assign them different permissions for managing different modules throughout the `Admin Panel`.
+This is about making multiple user groups and assigns them different permissions for managing different modules throughout the `Admin Panel`.
 
 
 ### Default Groups
 
-There are 3 default groups that can't be modified or deleted. `Members` group users are restricted to Admin Panel, all other group users can access admin panel.
+3 default groups can't be modified or deleted. `Members` group users are restricted to Admin Panel, all other group users can access admin panel.
 
 - Admin
     
@@ -25,14 +25,14 @@ There are 3 default groups that can't be modified or deleted. `Members` group us
 
 - Members
 
-    Public group, this group user can't visit admin panel. (front-end access only)
+    Public group, this group user can't visit the admin panel. (front-end access only)
 
 - Editors
 
-    Semi-admin group, this group user can visit admin panel, depending on the permissions assigned on Manage ACL
+    Semi-admin group, this group user can visit the admin panel, depending on the permissions assigned on Manage ACL
 
 
->{primary} Admin can create unlimited Groups according to different needs. 
+>{primary} Admin can create unlimited groups according to different needs. 
 
 
 <a name="Manage-ACL"></a>
