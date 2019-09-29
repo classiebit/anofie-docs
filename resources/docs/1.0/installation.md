@@ -34,7 +34,7 @@ Anofie comes with an installer that makes the installation process fully automat
 <a name="Install"></a>
 ## Install
 
-1. Unzip the package.
+1. Download & Unzip the package.
 2. Copy all from the **Anofie package** folder and paste into your website directory.
 3. You website directory should look like this.
 
