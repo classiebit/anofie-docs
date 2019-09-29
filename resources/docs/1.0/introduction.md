@@ -55,7 +55,6 @@ To enhance the performance, security and scalability of Anofie, internally we've
 
 + [Codeigniter](https://github.com/bcit-ci/CodeIgniter) - Open source PHP framework.
 + [Ionauth](https://github.com/benedmunds/CodeIgniter-Ion-Auth) - Codeigniter's very popular and secure authentication library.
-+ [Hashids](https://github.com/vinkla/hashids) - PHP library for generating encoded string from integers using a salt key.
 + [PHPMailer](https://github.com/PHPMailer/PHPMailer) - PHP library for sending emails.
 + [Datatables](https://github.com/DataTables/DataTables) - Jquery library for generating ajax tables.
 + [Axios](https://github.com/axios/axios) - Better alternative for Ajax and for better compatibility with most of browsers.  

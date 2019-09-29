@@ -14,7 +14,6 @@ Welcome to Anofie Lite documentation for initial stable version 1.0
 - [What is Anofie](#What-is-Anofie)
 - [Lite Version](#Lite-version)
 - [Pro Version](#Pro-version)
-- [Credits](#Credits)
 
 <a name="What-is-Anofie"></a>
 ## What is Anofie
