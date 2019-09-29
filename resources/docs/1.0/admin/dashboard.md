@@ -4,6 +4,10 @@ Admin Dashboard gives a quick overview of what's happening on the website.
 
 ---
 
+![Anofie Dashboard](https://anofie-docs.classiebit.com/images/dashboard.jpg "Anofie Dashboard")
+
+---
+
 - [Counter Widgets](#Counter-Widgets)
 - [Top Receivers](#Top-Receivers)
 - [Reports](#Reports)

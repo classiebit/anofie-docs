@@ -2,6 +2,9 @@
 
 Manage Anofie's global settings here.
 
+---
+
+![global settings](https://anofie-docs.classiebit.com/images/settings.jpg "global settings")
 
 ---
 

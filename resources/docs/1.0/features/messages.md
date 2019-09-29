@@ -1,12 +1,20 @@
 # Messages
 
-![Anofie Profile Page](https://anofie-docs.classiebit.com/images/framed-message.jpg "Anofie Profile Page")
 
 Send message anonymously from the user's profile `example.com/johndoe`. Anofie is an anonymous messaging system, your identity won't be exposed.
 
 <br>
 In the same way, when you receive a message, you can't see the Sender's identity. That's how Anofie works. Anofie is about sending & receiving messages without exposing identities even if you're a registered user.
 
+---
+
+![Profile Page](https://anofie-docs.classiebit.com/images/profile-page-1.jpg "Profile Page")
+
+---
+
+![Messages Page](https://anofie-docs.classiebit.com/images/messages-1.jpg "Messages Page")
+
+---
 
 >{info} Received | Sent | Favorite messages can be seen from the &nbsp;<larecipe-button type="primary" rounded>Messages</larecipe-button>&nbsp; page
 

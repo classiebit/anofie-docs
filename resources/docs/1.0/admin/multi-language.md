@@ -2,6 +2,12 @@
 
 Anofie supports multiple languages, including Russian, Portuguese, Chinese, Japanese and even RTL languages such as Arabic, Persian, Urdu, etc. 
 
+---
+
+![multi-language](https://anofie-docs.classiebit.com/images/multi-language.jpg "multi-language")
+
+---
+
 > {success} Anofie `Auto-detects` **RTL** language and changes the website direction to **RTL**
 
 ---

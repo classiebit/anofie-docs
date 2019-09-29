@@ -40,6 +40,12 @@ This is about making multiple user groups and assigns them different permissions
 
 Manage Access Control List of user groups. Assign the groups permissions to access a modules e.g Messages - `View` `Add` `Edit` `Delete` operations.
 
+---
+
+![access control list](https://anofie-docs.classiebit.com/images/acl-1.jpg "access control list")
+
+---
+
 
 ### Assign View | Add | Edit | Delete Permissions
 

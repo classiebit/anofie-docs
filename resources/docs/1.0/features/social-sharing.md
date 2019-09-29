@@ -4,6 +4,10 @@ User Profile can be shared on **Facebook**, **Twitter** & **Whatsapp**.
 
 ---
 
+![Share profile](https://anofie-docs.classiebit.com/images/share-1.jpg "Share profile")
+
+---
+
 - [Share Profile](#Share-Profile)
 
 
