@@ -7,7 +7,7 @@ Anofie comes with an installer that makes the installation process fully automat
 ![Anofie Installer](https://anofie-docs.classiebit.com/images/installer-lite-1.jpg "Anofie Installer Screenshot")
 
 
-> {primary.fa-youtube} We've made a video for you to get started quickly. Have a look 💪
+> {info.fa-youtube} Here's a complete video tutorial guide for getting started quickly **[Anofie Academy](https://classiebit.com/academy/anofie/getting-started)** ✌️
 
 ---
 

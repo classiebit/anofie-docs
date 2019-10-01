@@ -7,7 +7,7 @@ Welcome to Anofie Lite documentation for initial stable version 1.0
 ![Anofie - Anonymous feedback script remastered](https://anofie-docs.classiebit.com/images/anofie-docs-banner-1.jpg "Anofie - Anonymous feedback script remastered")
 
 
-> {info.fa-youtube} Here's a complete video tutorial guide for getting started quickly ✌️
+> {info.fa-youtube} Here's a complete video tutorial guide for getting started quickly **[Anofie Academy](https://classiebit.com/academy/anofie/getting-started)** ✌️
 
 ---
 
