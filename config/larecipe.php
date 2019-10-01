@@ -52,7 +52,7 @@ return [
 
     'settings'       => [
         'auth'       => false,
-        'ga_id'      => ''
+        'ga_id'      => nv('APP_ENV') == 'staging' ? 'UA-148180654-1' : '',
     ],
 
     /*
