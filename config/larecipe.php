@@ -17,6 +17,7 @@ return [
         'route'   => '/docs',
         'path'    => '/resources/docs',
         'landing' => 'introduction',
+        'middleware' => ['web'],
     ],
 
     /*
@@ -52,7 +53,7 @@ return [
 
     'settings'       => [
         'auth'       => false,
-        'ga_id'      => env('APP_ENV') == 'staging' ? 'UA-148180654-1' : '',
+        'ga_id'      => ''
     ],
 
     /*
@@ -69,8 +70,8 @@ return [
     */
 
     'cache'       => [
-        'enabled' => false,
-        'period'  => 0 // 7 days -- value in minutes
+        'enabled' => env('APP_ENV') == 'staging' ? true : false,
+        'period'  => 5
     ],
 
     /*
@@ -136,13 +137,14 @@ return [
 
     'seo'                 => [
         'author'          => 'classiebit',
-        'description'     => 'Collect honest suggestions and feedbacks from your friends, employees, or customers in a creative and professional manner.',
+        'description'     => 'Receive honest feedbacks and specific question\'s answers from your co-workers, friends and people around you.',
+        'keywords'        => 'anofie, docs, anonymous, feedback, messaging, social, network, personal, questions, answers',
         'og'              => [
-            'title'       => 'Anofie Lite - Docs',
+            'title'       => 'Anofie Pro - Docs',
             'type'        => 'article',
             'url'         => 'https://anofie-docs.classiebit.com',
             'image'       => 'https://anofie-docs.classiebit.com/logo.png',
-            'description' => 'Collect honest suggestions and feedbacks from your friends, employees, or customers in a creative and professional manner.',
+            'description' => 'Receive honest feedbacks and specific question\'s answers from your co-workers, friends and people around you.',
         ]
     ],
 
